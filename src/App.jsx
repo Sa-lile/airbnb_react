@@ -4,7 +4,6 @@ import Navbar from "./components/Navbar";
 import Card from "./components/Card";
 import data from "./data";
 console.log(data); /* test data */
-<meta name="google-site-verification" content="OOFOKR60rIgMUYuDpqZ2QBDcPLNGz2Rs1Cpk0UXeTQE" />
 function App() {
 
  
